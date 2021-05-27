@@ -33,6 +33,8 @@ The com.google.gdt.eclipse.gph.hge project requires MercurialEclipse to be insta
 close the project, or install MercurialEclipse: http://cbes.javaforge.com/update.
 
 The com.google.gdt.eclipse.gph.subclipse project requires Subclipse to be installed. You can either
+
+Soy Xavier Encarnacion
 close the project, or install Subclipse: http://subclipse.tigris.org/update_1.6.x.
 
 The com.google.gdt.eclipse.gph.subversive project requires Subversive to be installed. You can either
